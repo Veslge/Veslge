@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Veslge
-- 👀 I’m interested in learning how to code and Computer Science in general
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning how to code and Cyber Security in general
+- 🌱 I’m currently learning C++, Python, and Java
 - 📫 How to reach me: dylanap007@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a 2nd degree black belt in Taekwondo
